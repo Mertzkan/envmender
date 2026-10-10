@@ -24,7 +24,7 @@ No account. No external services. No secrets printed.
 
 Requires Node.js 22.12.0 or newer.
 
-Once published to npm:
+Install from npm:
 
 ```bash
 npm install --save-dev envmender
